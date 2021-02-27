@@ -1,3 +1,3 @@
 # laravel-bitcoinlebahis
 
-портал криптовалют:  bitcoinlebahis.com
+portal cryptocurrencies:  http://bitcoinlebahis.com
