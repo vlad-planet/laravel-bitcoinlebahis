@@ -1,0 +1,1 @@
+[05-Dec-2017 07:57:07 UTC] PHP Parse error:  syntax error, unexpected '$table' (T_VARIABLE) in /home/bitcoinlebahis/bitcoinlebahis/database/migrations/2014_10_12_000000_create_users_table.php on line 20

@@ -1,0 +1,184 @@
+[05-Dec-2017 07:29:18 UTC] PHP Warning:  require(/home/bitcoinlebahis/public_html/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home/bitcoinlebahis/public_html/index.php on line 22
+[05-Dec-2017 07:29:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/bitcoinlebahis/public_html/../bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bitcoinlebahis/public_html/index.php on line 22
+[05-Dec-2017 09:02:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Auth' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ReviewsController.php on line 23
+[05-Dec-2017 09:02:27 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ReviewsController.php on line 24
+[05-Dec-2017 09:02:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ReviewsController.php on line 24
+[05-Dec-2017 09:03:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Auth' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ReviewsController.php on line 23
+[05-Dec-2017 09:03:10 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Auth' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ReviewsController.php on line 23
+[05-Dec-2017 14:40:55 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Middleware/CacheKiller.php on line 7
+[05-Dec-2017 17:54:26 UTC] PHP Warning:  require_once(../libs/KrakenApiClient.php): failed to open stream: No such file or directory in /home/bitcoinlebahis/public_html/kraken.php on line 3
+[05-Dec-2017 17:54:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../libs/KrakenApiClient.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bitcoinlebahis/public_html/kraken.php on line 3
+[05-Dec-2017 17:54:58 UTC] PHP Warning:  require_once(../libs/KrakenApiClient.php): failed to open stream: No such file or directory in /home/bitcoinlebahis/public_html/kraken.php on line 6
+[05-Dec-2017 17:54:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../libs/KrakenApiClient.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bitcoinlebahis/public_html/kraken.php on line 6
+[05-Dec-2017 17:55:24 UTC] PHP Warning:  require_once(../KrakenApiClient.php): failed to open stream: No such file or directory in /home/bitcoinlebahis/public_html/kraken.php on line 6
+[05-Dec-2017 17:55:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../KrakenApiClient.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bitcoinlebahis/public_html/kraken.php on line 6
+[13-Dec-2017 12:52:05 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Admin\int() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/CryptoCompareController.php on line 25
+[14-Dec-2017 16:55:06 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 12
+[14-Dec-2017 17:06:53 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 25
+[14-Dec-2017 17:07:20 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 12
+[14-Dec-2017 17:07:29 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 12
+[14-Dec-2017 17:08:31 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 13
+[14-Dec-2017 17:09:59 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 13
+[14-Dec-2017 17:10:43 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 14
+[14-Dec-2017 17:11:36 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\Menu because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/Menu.php on line 12
+[18-Dec-2017 14:19:17 UTC] PHP Fatal error:  The "yield" expression can only be used inside a function in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 164
+[18-Dec-2017 14:21:20 UTC] PHP Parse error:  syntax error, unexpected 'app' (T_STRING) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 164
+[26-Dec-2017 10:43:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Response' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 32
+[26-Dec-2017 10:43:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Response' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 32
+[26-Dec-2017 11:55:47 UTC] PHP Fatal error:  Access level to App\Menu::$timestamps must be public (as in class Illuminate\Database\Eloquent\Model) in /home/bitcoinlebahis/bitcoinlebahis/app/Menu.php on line 0
+[27-Dec-2017 15:30:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\MenuController::update() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 39
+[27-Dec-2017 15:30:21 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\MenuController::add() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 39
+[29-Dec-2017 11:31:07 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 60
+[29-Dec-2017 12:17:03 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 60
+[29-Dec-2017 12:36:47 UTC] PHP Parse error:  syntax error, unexpected 'footer' (T_STRING) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 46
+[09-Jan-2018 15:36:56 UTC] PHP Fatal error:  Class 'App\Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 52
+[09-Jan-2018 15:37:00 UTC] PHP Fatal error:  Class 'App\Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 52
+[10-Jan-2018 09:36:01 UTC] PHP Fatal error:  Class 'App\Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 52
+[10-Jan-2018 09:38:47 UTC] PHP Fatal error:  Class 'App\Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 52
+[10-Jan-2018 12:19:34 UTC] PHP Fatal error:  Class 'App\Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 52
+[10-Jan-2018 12:19:43 UTC] PHP Fatal error:  Class 'App\Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 52
+[10-Jan-2018 14:15:13 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 26
+[11-Jan-2018 08:10:29 UTC] PHP Fatal error:  Class 'App\Type' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 23
+[15-Jan-2018 10:49:00 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 85
+[16-Jan-2018 08:12:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/bc810fdfa3dc98b2dc412fb78635e363b891b3e5.php on line 2
+[16-Jan-2018 15:02:57 UTC] PHP Fatal error:  Class 'Type' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/54994959e0547d09fb15cb917e405a668ba41bb3.php on line 18
+[16-Jan-2018 15:03:01 UTC] PHP Fatal error:  Class 'Type' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/54994959e0547d09fb15cb917e405a668ba41bb3.php on line 18
+[19-Jan-2018 15:55:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/54994959e0547d09fb15cb917e405a668ba41bb3.php on line 80
+[22-Jan-2018 12:13:18 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\DB' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 39
+[22-Jan-2018 13:05:51 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\ResourceController::getByCode() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 55
+[22-Jan-2018 13:06:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\View' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 69
+[22-Jan-2018 13:07:09 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\View' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 70
+[22-Jan-2018 13:07:23 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Admin\View as View because the name is already in use in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 11
+[22-Jan-2018 13:09:04 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\View' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 69
+[22-Jan-2018 13:09:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\View' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 69
+[22-Jan-2018 13:09:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\View' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 70
+[22-Jan-2018 13:10:15 UTC] PHP Fatal error:  Call to undefined method Illuminate\View\View::exists() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 70
+[22-Jan-2018 13:10:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\View' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 70
+[22-Jan-2018 13:10:39 UTC] PHP Fatal error:  Call to undefined method Illuminate\View\View::exists() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 70
+[22-Jan-2018 13:16:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/223e14fdd571009dcc451d929c8ee757401e35f3.php on line 15
+[22-Jan-2018 15:10:58 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/1bf656652a19470979e62e9d831e6fc50b993103.php on line 12
+[22-Jan-2018 15:11:08 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/1bf656652a19470979e62e9d831e6fc50b993103.php on line 12
+[22-Jan-2018 15:11:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/1bf656652a19470979e62e9d831e6fc50b993103.php on line 12
+[24-Jan-2018 12:56:58 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\Admin\str_count() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 36
+[24-Jan-2018 14:36:58 UTC] PHP Parse error:  syntax error, unexpected '$sType' (T_VARIABLE) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 119
+[24-Jan-2018 14:37:02 UTC] PHP Parse error:  syntax error, unexpected '$sType' (T_VARIABLE) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 119
+[24-Jan-2018 14:58:55 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 77
+[25-Jan-2018 10:26:41 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/CryptoCompareController.php on line 71
+[25-Jan-2018 10:26:48 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/CryptoCompareController.php on line 71
+[26-Jan-2018 15:06:59 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 59
+[29-Jan-2018 08:15:11 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 3
+[29-Jan-2018 08:16:05 UTC] PHP Fatal error:  Call to undefined method stdClass::toArray() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 56
+[29-Jan-2018 08:16:51 UTC] PHP Fatal error:  Call to undefined method stdClass::toArray() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 56
+[29-Jan-2018 08:19:20 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 3
+[29-Jan-2018 08:24:59 UTC] PHP Fatal error:  Call to undefined method stdClass::toArray() in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 61
+[29-Jan-2018 08:36:29 UTC] PHP Fatal error:  Class 'App\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:37:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:49:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:49:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:50:45 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:51:52 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:52:16 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 08:52:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Prepare' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 62
+[29-Jan-2018 09:04:46 UTC] PHP Fatal error:  Call to a member function toJson() on array in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 4
+[29-Jan-2018 09:05:19 UTC] PHP Fatal error:  Call to undefined method stdClass::toJson() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 4
+[29-Jan-2018 11:45:20 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:45:24 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:45:38 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:45:59 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:46:01 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:46:17 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:46:26 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[29-Jan-2018 11:46:36 UTC] PHP Fatal error:  Call to undefined function assets() in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 60
+[31-Jan-2018 09:28:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\ExampleModel' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 84
+[31-Jan-2018 09:31:06 UTC] PHP Fatal error:  Call to a member function getColumns() on array in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 86
+[05-Feb-2018 08:52:37 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 6
+[05-Feb-2018 08:53:12 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 6
+[05-Feb-2018 08:54:10 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 6
+[05-Feb-2018 08:54:27 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 6
+[05-Feb-2018 08:54:35 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 6
+[05-Feb-2018 08:54:59 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 6
+[05-Feb-2018 13:27:48 UTC] PHP Parse error:  syntax error, unexpected '$obCoin' (T_VARIABLE) in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/CoinsController.php on line 89
+[06-Feb-2018 15:18:20 UTC] PHP Parse error:  syntax error, unexpected '$arResource' (T_VARIABLE) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 76
+[07-Feb-2018 16:01:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d9bfdcf30e93bc89dba5a7c0a6495ae51065a4a9.php on line 169
+[13-Feb-2018 09:10:15 UTC] PHP Fatal error:  Class 'App\Wallets' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 75
+[13-Feb-2018 09:10:29 UTC] PHP Fatal error:  Class 'App\Wallets' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 77
+[13-Feb-2018 09:11:46 UTC] PHP Fatal error:  Class 'App\Wallets' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 76
+[13-Feb-2018 09:14:52 UTC] PHP Parse error:  syntax error, unexpected '*', expecting ';' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 124
+[28-Feb-2018 12:13:31 UTC] PHP Warning:  symlink(): File exists in /home/bitcoinlebahis/public_html/sym.php on line 2
+[28-Feb-2018 13:01:34 UTC] PHP Fatal error:  Class 'Form' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 70
+[28-Feb-2018 13:01:40 UTC] PHP Fatal error:  Class 'Form' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 70
+[28-Feb-2018 13:22:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 234
+[28-Feb-2018 13:44:42 UTC] PHP Parse error:  syntax error, unexpected '$arResource' (T_VARIABLE), expecting ',' or ';' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 70
+[28-Feb-2018 13:45:35 UTC] PHP Parse error:  syntax error, unexpected '$arResource' (T_VARIABLE), expecting ',' or ';' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 70
+[28-Feb-2018 13:46:01 UTC] PHP Parse error:  syntax error, unexpected '$arResource' (T_VARIABLE), expecting ',' or ';' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/7bc54549d7525770dfddfdac6b6937f2bf4c8af8.php on line 70
+[14-Mar-2018 09:46:19 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:47:21 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:47:26 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:47:45 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:47:49 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:47:56 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:48:00 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:48:07 UTC] PHP Fatal error:  Undefined constant 'App\Providers\HelperServiceProvider' in /home/bitcoinlebahis/bitcoinlebahis/config/app.php on line 181
+[14-Mar-2018 09:48:29 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/bitcoinlebahis/bitcoinlebahis/app/Providers/HelperServiceProvider.php on line 5
+[14-Mar-2018 10:05:39 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 49
+[14-Mar-2018 10:05:48 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 49
+[14-Mar-2018 10:06:12 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/d38bf6683e3bddb9f3604380266bf1edfd3098f2.php on line 49
+[14-Mar-2018 14:01:22 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/286b77b1cfff5808fd8a85c4e82c9e8038eeb0eb.php on line 11
+[14-Mar-2018 15:31:05 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 158
+[14-Mar-2018 15:31:57 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 158
+[14-Mar-2018 15:33:57 UTC] PHP Fatal error:  Class 'Wallets' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 155
+[14-Mar-2018 15:34:05 UTC] PHP Fatal error:  Class 'Wallets' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 155
+[14-Mar-2018 15:40:06 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4fb156196e1957571588ab9ee9abc7744ba552d3.php on line 7
+[14-Mar-2018 15:41:00 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4fb156196e1957571588ab9ee9abc7744ba552d3.php on line 7
+[14-Mar-2018 15:41:07 UTC] PHP Fatal error:  Class 'Wallets' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4c5ba9b5bc39e4f46a6ad7c56af0d5d33be142de.php on line 161
+[14-Mar-2018 15:41:23 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4fb156196e1957571588ab9ee9abc7744ba552d3.php on line 7
+[14-Mar-2018 15:41:41 UTC] PHP Fatal error:  Class 'Resource' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/4fb156196e1957571588ab9ee9abc7744ba552d3.php on line 7
+[10-May-2018 12:13:57 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 14
+[10-May-2018 14:04:27 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/94324d396465da26d183eea5bb4bafae04792995.php on line 7
+[24-May-2018 08:09:58 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 59
+[24-May-2018 08:10:01 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 59
+[24-May-2018 08:10:03 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 59
+[24-May-2018 08:10:04 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 59
+[24-May-2018 08:10:42 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 59
+[24-May-2018 08:10:44 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 59
+[24-May-2018 08:25:09 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:11 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:16 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:19 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:20 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:25 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:28 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:29 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:30 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:31 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:38 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:44 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:25:48 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:00 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:06 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:08 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:10 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:11 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:11 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:12 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:13 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:13 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:14 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:15 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:16 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:16 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:17 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:18 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:26:19 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 68
+[24-May-2018 08:34:41 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/storage/framework/views/117f4c711fb4b74e94f237208d63dade92375087.php on line 67
+[24-May-2018 08:41:00 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 18
+[24-May-2018 08:41:48 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 19
+[24-May-2018 08:41:49 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 19
+[24-May-2018 08:45:45 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/MenuController.php on line 19
+[24-May-2018 10:26:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Filds' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 162
+[24-May-2018 10:27:29 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Filds' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 170
+[24-May-2018 10:37:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Filds' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 165
+[24-May-2018 11:50:07 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Tools\Filds' not found in /home/bitcoinlebahis/bitcoinlebahis/app/Http/Controllers/Admin/ResourceController.php on line 162
+[24-May-2018 12:38:45 UTC] PHP Warning:  require(/home/bitcoinlebahis/public_html/../bitcoinlebahis/bootstrap/autoload.php): failed to open stream: No such file or directory in /home/bitcoinlebahis/public_html/index.php on line 22
+[24-May-2018 12:38:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/bitcoinlebahis/public_html/../bitcoinlebahis/bootstrap/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bitcoinlebahis/public_html/index.php on line 22
+[29-May-2018 07:45:15 UTC] PHP Fatal error:  Class 'LaravelLocalization' not found in /home/bitcoinlebahis/bitcoinlebahis/routes/web.php on line 20

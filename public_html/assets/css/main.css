@@ -1,0 +1,55 @@
+
+.card-course{
+    cursor: pointer;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+}
+
+/*
+.ct-label.ct-horizontal.ct-end{
+	transform: rotate(-90deg);
+}
+*/
+.ct-golden-section:before{
+    padding-bottom: 34%;
+}
+
+
+body{
+    background-image: url('/assets/images/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center 125px;
+}
+
+.content {
+    padding: 0 15px 0 15px;
+}
+
+h1, h2, h3, h4 {
+    font-family: fantasy !important;
+    text-transform: uppercase;
+
+}
+
+.highcharts-credits{
+    display:none;
+}
+
+
+#topnav .navigation-menu > li > a{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#topnav .navigation-menu > li.active > a{
+
+}
+
+.leftimg{
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
